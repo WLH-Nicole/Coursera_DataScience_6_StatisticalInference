@@ -1,4 +1,4 @@
-# Coursera_DataScience_6_StatisticalInference
+# Data Science Specialization on Coursera: Statistical Inference
 
 The most comfortable way to preview html files is click the following link: 
 
