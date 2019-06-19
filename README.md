@@ -1,4 +1,4 @@
-# Statistical Inference (Coursera - Data Science Specialization)
+## Statistical Inference (Coursera - Data Science Specialization)
 
 The most comfortable way to preview html files is click the following link: 
 
